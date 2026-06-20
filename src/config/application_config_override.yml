@@ -12,4 +12,4 @@ spring:
       connection-test-query: SELECT 1
   sql:
     init:
-      mode: always
+      mode: alwayscd
